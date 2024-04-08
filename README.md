@@ -1,1 +1,1 @@
-<h1>Pagina web la Barber+ia Alura </h1>
+<h1>Pagina web la Barbería Alura </h1>
